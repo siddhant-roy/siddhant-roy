@@ -25,6 +25,10 @@
 
 I'm a Computer Science student at [Vellore Institute of Technology](https://chennai.vit.ac.in). Full-stack developer with passion for problem solving and back-end development. Fascinated by everything that's CS related. Proudly from India <sub>_IN_</sub>
 
+<br />
+<p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=siddhant-roy" alt="siddhant-roy" /></a> </p>
+<br />
+
 <!--
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)

@@ -50,7 +50,7 @@ I'm a Computer Science student at [Vellore Institute of Technology](https://chen
 
 ### 📬 Get in Touch
 
-- GitHub: [github.com/siddhant=roy][github]
+- GitHub: [github.com/siddhant-roy][github]
 - LinkedIn: [linkedin.com/in/siddhantroy][linkedin]
 - E-mail: siddhant.roy.official@gmail.com
 - Site: Coming soon :)

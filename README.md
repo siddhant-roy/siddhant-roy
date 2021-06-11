@@ -23,11 +23,13 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-red)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=siddhant-roy&label=Views&color=blue&style=plastic" alt="siddhant-roy" /> </p>
+
 I'm a Computer Science student at [Vellore Institute of Technology](https://chennai.vit.ac.in). Full-stack developer with passion for problem solving and back-end development. Fascinated by everything that's CS related. Proudly from India <sub>_IN_</sub>
 
-<br />
+<!--<br />
 <p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=siddhant-roy" alt="siddhant-roy" /></a> </p>
-<br />
+<br />-->
 
 <!--
 ## 🔧 Technologies & Tools

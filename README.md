@@ -23,7 +23,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
 ![SQL](https://img.shields.io/badge/SQL-Intermediate-red)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=siddhant-roy&label=Views&color=blue&style=plastic" alt="siddhant-roy" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=siddhant-roy&label=Profile%20Views&color=18ba94&style=flat" alt="siddhant-roy" /> </p>
 
 I'm a Computer Science student at [Vellore Institute of Technology](https://chennai.vit.ac.in). Full-stack developer with passion for problem solving and back-end development. Fascinated by everything that's CS related. Proudly from India <sub>_IN_</sub>
 
@@ -50,7 +50,7 @@ I'm a Computer Science student at [Vellore Institute of Technology](https://chen
 - 🔭 Currently studying: **Computer Science and Engineering** at Vellore Institute of Technology, Chennai
 - 😄 Pronouns: **He/Him**
 - 🌱 Currently learning: **React.JS**
-- ⚙️ Mastering: `.html`, `.css`, `.js`, `.ts`, `.cs`, `.cpp`, `.py`
+- ⚙️ Mastering: `.html`, `.css`, `.js`, `.ts`, `.jsx`, `.cs`, `.cpp`, `.py`
 - 👯 I’m actively looking for **Internships** and/or **Freelance** projects
 <!--(- 💬 I'm mostly active within the **Vue.JS**, **Node.JS** communities)-->
 

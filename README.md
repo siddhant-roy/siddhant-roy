@@ -14,8 +14,6 @@
 
 ## My name is **Siddhant Roy**
 
-![siddhant-roy](https://socialify.git.ci/siddhant-roy/siddhant-roy/image?descriptionEditable=Siddhant%20Roy&font=Raleway&language=1&pattern=Floating%20Cogs&theme=Dark)
-
 ![.NET](https://img.shields.io/badge/.NET-Expert-lightblue)
 ![C++](https://img.shields.io/badge/C++-Expert-purple)
 ![Python](https://img.shields.io/badge/Python-Expert-lightgreen)
@@ -70,3 +68,5 @@ I'm a Computer Science student at [Vellore Institute of Technology](https://chen
 [github]: https://github.com/siddhant-roy
 [site]: https://
 [linkedin]: https://www.linkedin.com/in/siddhantroy/
+
+![siddhant-roy](https://socialify.git.ci/siddhant-roy/siddhant-roy/image?descriptionEditable=Siddhant%20Roy&font=Raleway&language=1&pattern=Floating%20Cogs&theme=Dark)

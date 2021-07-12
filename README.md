@@ -69,4 +69,9 @@ I'm a Computer Science student at [Vellore Institute of Technology](https://chen
 [site]: https://
 [linkedin]: https://www.linkedin.com/in/siddhantroy/
 
+<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<p align="center">
+  <img src="https://github.com/siddhant-roy/siddhant-roy/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
 ![siddhant-roy](https://socialify.git.ci/siddhant-roy/siddhant-roy/image?descriptionEditable=Siddhant%20Roy&font=Raleway&language=1&pattern=Floating%20Cogs&theme=Dark)

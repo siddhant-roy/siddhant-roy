@@ -49,7 +49,7 @@ I'm a Computer Science student at [Vellore Institute of Technology](https://chen
 
 - 🔭 Currently studying: **Computer Science and Engineering** at Vellore Institute of Technology, Chennai
 - 😄 Pronouns: **He/Him**
-- 🌱 Currently learning: **React.JS**
+- 🌱 Currently learning: **ReactJS**, **Redux** 
 - ⚙️ Mastering: `.html`, `.css`, `.js`, `.ts`, `.jsx`, `.cs`, `.cpp`, `.py`
 - 👯 I’m actively looking for **Internships** and/or **Freelance** projects
 <!--(- 💬 I'm mostly active within the **Vue.JS**, **Node.JS** communities)-->
@@ -69,7 +69,7 @@ I'm a Computer Science student at [Vellore Institute of Technology](https://chen
 [site]: https://
 [linkedin]: https://www.linkedin.com/in/siddhantroy/
 
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
+<h1 align = 'Center'>Watch a 🐍 eat my contribution graph</h1>
 <p align="center">
   <img src="https://github.com/siddhant-roy/siddhant-roy/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
